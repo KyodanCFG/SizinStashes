@@ -3,6 +3,8 @@ Sizin' Stashes (for JET v1.1.0)
 Version `1.1.0` (`03.13.2021`)
 By Kyodan
 
+![Screenshot](cover.png)
+
 This mod allows you to resize the height of stashes however you want!
 
 **Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/SizinStashes/releases**
@@ -36,7 +38,7 @@ This mod allows you to resize the height of stashes however you want!
     * "`edgeOfDarkness`": 78
 
 - Below are the flags for each setting:
-    * `sizinStashes` (`true`|`false`)             - determines if this script is enabled/disabled
+    * `sizinStashes` (`true`|`false`)           - determines if this script is enabled/disabled
     * `standard` (`number`)                     - determines how tall (in units) the 'Standard' stash will be
     * `leftBehind` (`number`)                   - determines how tall (in units) the 'Left Behind' stash will be
     * `prepareToEscape` (`number`)              - determines how tall (in units) the 'Prepare to Escape' stash will be
