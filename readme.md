@@ -12,7 +12,7 @@ This mod allows you to resize the height of stashes however you want!
 ## Info
 
 - By default, this mod will enable itself, and increase by 10 the stash height for each edition of the game
-    * `Standard` from `28` to 38`
+    * `Standard` from `28` to `38`
     * `Left Behind` from `38` to `48`
     * `Prepare to Escape` from `48` to `58`
     * `Edge of Darkness` from `68` to `78`
