@@ -1,0 +1,9 @@
+{
+    "stashes": {
+      "sizinStashes": true,
+      "standard": 38,
+      "leftBehind": 48,
+      "prepareToEscape": 58,
+      "edgeOfDarkness": 78
+    }
+}
